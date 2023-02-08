@@ -1,5 +1,25 @@
-# playdata-team3-finalProject
+# 플레이데이터_team3_finalProject
+- 개발 강의 추천 서비스 챗봇 (인프런)
 
+## 💻프로젝트 소개
+- 초보 개발자를 위한 필요한 강의를 간편하게 추천 받을 수 있는 챗봇 서비스 입니다.
+
+## 📆개발기간
+- 22.12.01 ~ 22.01.19 (36일)
+
+## 🤝멤버구성
+- 고영현 : 웹 크롤러 개발 및 데이터 수집, DB관리
+- 조소영 : PM, 추천 모델 개발
+- 양민호 : 챗봇 백엔드 서버 및 기능 개발
+
+## 🛠개발환경
+- python 3.8
+- Back-end : Goormide, Discord
+- Database : MySQL
+- model : scikit-learn, Gensim
+- 형태소 분석기 : KoNLPy
+
+## 🔎주요 기능
 ### 강의추천
 - 입력받은 키워드를 기준으로 적합한 강의 5개를 보여줌
 <img width="30%" src="https://user-images.githubusercontent.com/111327569/217436616-effd1737-3b7d-437d-8523-1494c200c0d9.PNG"/>
@@ -16,4 +36,5 @@
 - 예약했던 키워드를 확인하고 예약 취소도 가능
 <img width="30%" src="https://user-images.githubusercontent.com/111327569/217437168-4506c0a8-f5b6-41f9-9977-b67a3c3bb591.PNG"/> 
 
-### 팀 깃 주소 https://github.com/sojo6658/playdata-team3-finalProject
+---
+##### 팀 깃 주소 <https://github.com/sojo6658/playdata-team3-finalProject>
