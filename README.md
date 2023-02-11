@@ -37,5 +37,5 @@
 <img width="30%" src="https://user-images.githubusercontent.com/111327569/217437168-4506c0a8-f5b6-41f9-9977-b67a3c3bb591.PNG"/> 
 
 ---
-##### ppt <AI22 3팀 def learning() - 발표 PPT.pdf>
+##### AI22 3팀 def learning() - 발표 PPT.pdf
 ##### 팀 깃 주소 <https://github.com/sojo6658/playdata-team3-finalProject>
