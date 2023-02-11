@@ -16,8 +16,8 @@
 - python 3.8
 - Back-end : Goormide, Discord
 - Database : MySQL
-- model : scikit-learn, Gensim
-- 형태소 분석기 : KoNLPy
+- model : Scikit-learn, Gensim
+- 형태소 분석기 : KoNLPy-Komoran
 
 ## 🔎주요 기능
 ### 강의추천
